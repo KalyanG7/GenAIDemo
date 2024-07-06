@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class PdfFileReader {
     private final VectorStore vectorStore;
 
-    @Value("classpath:leavepolicy.pdf")
+    @Value("classpath:LeavePolicy_v1.pdf")
     private Resource pdfResource;
 
     public PdfFileReader(VectorStore vectorStore) {
