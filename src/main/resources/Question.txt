@@ -1,0 +1,18 @@
+
+1. how much garnishment order received on March 22 for Account co-owners with benefit payments ?
+
+3800
+
+2. when the opening balance in the account is $3,000 for Benefit payment on date of account review ?
+
+3. how much cash withdrawal processed after the open of business on September 13 for Intraday transactions ?
+
+1000
+
+4.how much a sum of the three benefit payments posted to the account during the lookback period is less than the $5,000
+
+The sum of the three benefit payments posted to the account during the lookback period is $4,500, which is $500 less than the $5,000 balance in the account when the account review is performed.
+
+5. how much account review shows that two federal benefit payments were deposited to the account during the lookback period totaling in Account balance less than sum of benefit payments
+
+The account review shows that two federal benefit payments were deposited to the account during the lookback period totaling $2,500 in the example of "Account balance less than sum of benefit payments."
